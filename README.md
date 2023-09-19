@@ -3,7 +3,7 @@
 ![Screenshot from 2023-09-19 17-31-13](https://github.com/OliverParickines/nomer_gradebook/assets/145471985/1d21d7da-26e6-4c12-a298-783ae2399492)  
 ![Screenshot from 2023-09-19 17-37-12](https://github.com/OliverParickines/nomer_gradebook/assets/145471985/44229e9b-77ed-4982-9adb-dc9ac3cef60f)  
 Клонируем репозиторий который получился:  
-git clone <ваш аддрес форка>
+git clone <ваш аддрес форка>  
 Создаем новую ветку командой:  
 git checkout -b <имя ветки>  
 Добавляем номер зачетки в файл nomers_gradebook.txt;  
