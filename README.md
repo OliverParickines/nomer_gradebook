@@ -10,9 +10,9 @@ git checkout -b <имя ветки>
 Добавляем все изменения командой:  
 git add .  
 Далле фиксируем изменения:  
-git commit -m 'ваш коментарий'
-Отправляем изменения на ваш репозиторий:
-git push --set-upstream origin <имя вашей ветки>
-Переходим на оригинальный репозиторий и создаем pull request
+git commit -m 'ваш коментарий'  
+Отправляем изменения на ваш репозиторий:  
+git push --set-upstream origin <имя вашей ветки>  
+Переходим на оригинальный репозиторий и создаем pull request  
 ![image](https://github.com/OliverParickines/nomer_gradebook/assets/145471985/5b298bd5-cb02-4b24-a0ff-2dc81702ec86)
-Выбираем ваш fork и нужную ветку и создаете pull request
+Выбираем ваш fork и нужную ветку и создаете pull request  
